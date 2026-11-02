@@ -31,7 +31,6 @@
   <img align="right" width="150" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" alt="Rotating Penguin" />
 
   <h2>
-    <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px" alt="About Me" />
     About Me
   </h2>
 </div>
