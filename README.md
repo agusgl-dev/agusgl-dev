@@ -36,9 +36,6 @@
   </h2>
 </div>
 
-<img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
-
-<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***About Me ....***
 
 ✔ **C++ Developer:** Passionate about software development and problem-solving. 💻<br>
 ✔ **Algorithms & Data Structures:** I enjoy designing efficient solutions to complex problems. 🧠<br>
